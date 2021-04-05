@@ -1,1 +1,1 @@
-# my-amazing-repo
+# my amazing repo
